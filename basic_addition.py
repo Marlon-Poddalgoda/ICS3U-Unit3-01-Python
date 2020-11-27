@@ -1,10 +1,12 @@
 # Created by Marlon Poddalgoda
 # Created on November 2020
-# This program calculates 2 user inputted numbers
+# This program adds 2 user inputted numbers
 
 
 def main():
     # this function calculates 2 user inputted numbers
+
+    print("This program does basic addition.")
 
     # input
     first_number = int(input("Enter your first number: "))
